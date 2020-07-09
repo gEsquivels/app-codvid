@@ -1,4 +1,4 @@
-# app Covid-19
+# App CodVid
 
 > Aplicação para ter dados sobre o pandemia do Covid-19.
 
