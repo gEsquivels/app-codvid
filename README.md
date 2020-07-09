@@ -4,7 +4,6 @@
 
 [![NPM Version][npm-version]][npm-version]
 [![NPM License][npm-license]][npm-license]
-[![Code Size][code-size]][code-size]
 
 Aplicativo que permite ter infirmações sobre os efeitos do Covid-19 no Brasil.
 
@@ -63,4 +62,3 @@ Este projeto está sob a [MIT license](https://github.com/gEsquivels/cos-vis-19/
 
 [npm-license]: https://img.shields.io/npm/l/express?color=03ca6f&style=plastic
 [npm-version]: https://img.shields.io/npm/v/npm?color=333333&style=plastic
-[code-size]: https://img.shields.io/github/languages/code-size/gEsquivels/cod-vid-19?color=03ca6f&style=plastic
