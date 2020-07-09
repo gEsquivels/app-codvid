@@ -1,27 +1,30 @@
 import styled from "styled-components/native";
 
+
+export const StatusBar = styled.StatusBar``;
+
 export const Container = styled.View`
   flex: 1;
 `;
 export const Header = styled.View`
   align-items: center;
   flex-direction: row;
-  background-color: #f0f0f5;
+  background-color: #34495e;
   justify-content: space-between;
-  padding: 5px 10px 0 10px;
+  padding: 10px 10px;
   width: 100%;
 `;
 export const TextHeader = styled.Text`
-  color: #333;
+  color: #FFF;
   font-weight: bold;
+  font-size: 27px;
 `;
-export const StatusBar = styled.StatusBar``;
 export const CalloutContent = styled.View`
   width: 250px;
   justify-content: center;
 `;
 export const CalloutText = styled.Text`
-  color: #666;
+  color: #2ecc71;
   font-weight: bold;
 `;
 export const ImageHeader = styled.Image`
