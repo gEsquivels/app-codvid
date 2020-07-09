@@ -2,7 +2,7 @@
 
 > Aplicação para ter dados sobre o pandemia do Covid-19.
 
-[![NPM Version][npm-version]][npm-version]
+[![Yarn Version][npm-version]][npm-version]
 [![NPM License][npm-license]][npm-license]
 
 Aplicativo que permite ter infirmações sobre os efeitos do Covid-19 no Brasil.
